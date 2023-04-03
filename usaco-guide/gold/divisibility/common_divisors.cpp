@@ -1,4 +1,3 @@
-/* Online C++ Compiler and Editor */
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
